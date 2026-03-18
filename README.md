@@ -1,6 +1,5 @@
 # 💫 About Me:
-Building and iterating across the web stack<br><br>Exploring Linux systems, security fundamentals, and low-level tooling<br><br>Interested in configuration-driven workflows and system design<br><br>Comfortable in terminal-first, Git-based environments<br><br>Focused on clean, maintainable solutions
-
+strong passion for cybersecurity and full-stack web development. I work hands-on with tools like Wireshark, Burp Suite, Metasploit, Nmap, and Kali Linux, with experience in penetration testing, network traffic analysis, vulnerability assessment, and IDS/IPS configuration. On the development side, I build secure, scalable web applications using React.js, Node.js, Express, and MongoDB, always keeping security best practices like OWASP guidelines at the core. I hold a CEH-equivalent certification in Ethical Hacking & Penetration Testing and actively participate in CTF challenges on TryHackMe and HackTheBox to sharpen my offensive and defensive skills. I'm driven by the goal of bridging the gap between development and security — building things that are not just functional, but genuinely secure
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-r-16a388379) 
